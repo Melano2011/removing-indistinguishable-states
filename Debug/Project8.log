@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\ahmed\source\repos\project8\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ahmed\source\repos\project8\main.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(367): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ahmed\source\repos\project8\main.cpp(371): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(427): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\source\repos\project8\main.cpp(269): warning C4101: 'tt': unreferenced local variable
+  Project8.vcxproj -> C:\Users\Ahmed\source\repos\Project8\Debug\Project8.exe

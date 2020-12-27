@@ -1,0 +1,5 @@
+P1->aP2(f)|bP2(f)
+P2(f)->aP3(f)|bP1
+P3(f)->aP3(f)|bP4
+P4->aP2(f)|bP5
+P5->aP2(f)|bP4
